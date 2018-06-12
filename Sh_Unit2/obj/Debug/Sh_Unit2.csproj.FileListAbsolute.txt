@@ -1,0 +1,7 @@
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\bin\Debug\Sh_Unit2.exe.config
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\bin\Debug\Sh_Unit2.exe
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\bin\Debug\Sh_Unit2.pdb
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\obj\Debug\Sh_Unit2.csprojResolveAssemblyReference.cache
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\obj\Debug\Sh_Unit2.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\obj\Debug\Sh_Unit2.exe
+C:\Users\vasyl\source\repos\Sh_Unit2\Sh_Unit2\obj\Debug\Sh_Unit2.pdb
